@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1746456824,
+	"version": 1746459602,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,11 @@
 		"images/phoneskin-sheet0.png",
 		"images/fadeapps-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/batterybackground-sheet0.png",
+		"images/tiledbackground.png",
+		"images/spritefont.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
