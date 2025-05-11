@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1746851498,
+	"version": 1746926784,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,6 +66,7 @@
 		"images/livebuttons-sheet0.png",
 		"images/livebar-sheet0.png",
 		"images/livemusicbac-sheet0.png",
+		"images/clock-sheet0.png",
 		"media/unlock.ogg",
 		"media/chargingstarted.ogg",
 		"media/lock.ogg",
