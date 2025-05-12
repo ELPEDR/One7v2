@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1746929024,
+	"version": 1747073093,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,6 +69,10 @@
 		"images/clock-sheet0.png",
 		"images/sprite36-sheet0.png",
 		"images/sprite37-sheet0.png",
+		"images/liveclock-sheet0.png",
+		"images/sprite38-sheet0.png",
+		"images/sprite39-sheet0.png",
+		"images/appstart-sheet0.png",
 		"media/unlock.ogg",
 		"media/chargingstarted.ogg",
 		"media/lock.ogg",
